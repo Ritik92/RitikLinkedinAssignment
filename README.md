@@ -1,3 +1,7 @@
-# WXT + React
+# AI Assistant LinkedeIn
 
-This template should help get you started developing with React in WXT.
+Below is the demo video
+
+
+https://github.com/user-attachments/assets/b33de33c-fb1f-4a8a-94f4-c283c649dffa
+
