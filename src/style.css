@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#linkedin-ai-reply-root {
+  font-family: Arial, sans-serif;
+}
